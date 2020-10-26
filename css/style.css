@@ -4,6 +4,70 @@ body{
 .banner-container{
     background-color: #CACACA;
 }
+.navbar-container{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
 .banner-column{
-    background-color: #8D8D8D;
+    background-color: #102040;
+    color: white;
+}
+.about-container{
+    background-color: #00BDBD;
+}
+.education-container{
+    background-color: #EEEE;
+}
+.redtype-color{
+    color: #FB857F;
+}
+.redtype-bg-color{
+    color: #FB857F;
+}
+.circle{
+    background-color:#282C34;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+}
+.card-color{
+    background-color: #102040;
+     color: white;
+     
+}
+.project-container{
+    background-color: #102040;
+}
+.color{
+   color: #102040;
+}
+.form-container{
+    background-color: #474D5D;
+}
+.gallary-container{
+    background-color: #CACACA
+}
+.special{
+    box-sizing: border-box;
+}
+.footer-container{
+    background-color: #131A22;
+}
+.footer-circle{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: white;
+    font-size:40px;
+    display: inline-block;
+}
+
+.footer-circle:hover{
+   
+    background-color:  #102040;
+    color: white;
 }
